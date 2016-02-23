@@ -8,3 +8,5 @@ This line was added while logged in to bitbucket (to enable autopush), but using
 Seemed to work OK -- everything got uploaded pretty quickly.
 
 Now something was changed on github.
+
+Great -- it goes both ways.
